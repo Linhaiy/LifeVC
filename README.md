@@ -1,4 +1,4 @@
-# wabpack_demo
+# LifeVC
 
 > A Vue.js project
 
